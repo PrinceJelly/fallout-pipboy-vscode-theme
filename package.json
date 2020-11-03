@@ -1,0 +1,21 @@
+{
+    "name": "fallout-pipboy",
+    "displayName": "Fallout Pipboy",
+    "description": "Based on the Fallout Series game",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fallout Pipboy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fallout Pipboy-color-theme.json"
+            }
+        ]
+    }
+}
