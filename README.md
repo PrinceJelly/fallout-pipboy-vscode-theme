@@ -1,5 +1,4 @@
 # README
-## This is the README for your extension "fallout-pipboy"
 ## To Install this extension
 
 - To start using this extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
