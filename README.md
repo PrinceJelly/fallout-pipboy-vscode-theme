@@ -8,8 +8,3 @@
 
 Please let me know if there's anything amiss within the theme! :)
 
-Preview
-
-![Preview] (./assets/Capture.JPG)
-![Preview2] (./assets/Capture2.JPG)
-C:\Users\Jess\Desktop\Projects\fallout-pipboy\assets\images\Capture.JPG
