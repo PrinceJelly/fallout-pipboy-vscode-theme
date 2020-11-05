@@ -16,8 +16,10 @@
     "editorWidget.background": "#1C291C",
     "editorWidget.foreground": "#10E410",
     //suggestwidget
-    "editorSuggestWidget.highlightForeground": "#1C291C",
-    "editorSuggestWidget.selectedBackground": "#1C291C",
+    "editorSuggestWidget.background": "#1C291C",
+    "editorSuggestWidget.highlightForeground": "#243D24",
+    "editorSuggestWidget.selectedBackground": "#243D24",
+    "editorSuggestWidget.foreground": "#10E410",
     //activity bar
     "activityBar.background": "#171D17",
     "activityBar.foreground": "#10E410",
@@ -36,6 +38,7 @@
     //text inputs
     "input.background": "#243D24",
     "input.foreground": "#10E410",
+    "editor.selectionForeground": "#ffffff",
     //status bar
     "statusBar.background": "#1C291C",
     "statusBar.foreground": "#10E410",
@@ -161,7 +164,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#33B133"
+        "foreground": "#00FF66"
       }
     },
     {
@@ -191,7 +194,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#eeff00"
+        "foreground": "#FFCC00"
       }
     },
     {
@@ -222,14 +225,14 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#ff8000"
+        "foreground": "#FFB000"
       }
     },
     {
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#FFBF00"
+        "foreground": "#FFCC00"
       }
     },
     {
@@ -254,7 +257,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#00FFFF"
       }
     },
     {
@@ -262,7 +265,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#00FFFF"
       }
     },
     {
@@ -326,28 +329,28 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#EF3E36"
+        "foreground": "#FFB000"
       }
     },
     {
       "name": "Changed",
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#FF5A5F"
+        "foreground": "#FFCC00"
       }
     },
     {
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#087E8B"
+        "foreground": "#00FFFF"
       }
     },
     {
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#087E8B"
+        "foreground": "#00FF33"
       }
     },
     {
